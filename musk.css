@@ -6,10 +6,12 @@
 </head>
 <body>
 <style>
+
 	h1 {
 		color: red;
 		text-decoration: underline;
-		text-align: center;}
+		text-align: center;
+}
 	h3{
 		text-align: right;
 		text-decoration: underline;
@@ -29,8 +31,8 @@
 	 	float: left;
 	 }
 
-li:nth-child(odd) { background: red; }
-li:nth-child(even) {background-color: blue;}
+li:nth-child(odd) { color: red; }
+li:nth-child(even) {color: blue;}
 
 nav { 
 text-align: right; }
