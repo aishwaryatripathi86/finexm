@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>THE ELON MUSK PAGE</title>
+	
+</head>
+<body>
+<style>
+	h1 {
+		color: red;
+		text-decoration: underline;
+		text-align: center;}
+	h3{
+		text-align: right;
+		text-decoration: underline;
+	}
+	p{
+		color: blue;
+		text-align: right;
+
+	}
+	h3 #ComFou{
+		text-align: center;
+		text-decoration: underline;
+	}
+	.centerBox { text-align: center;
+	 }
+	 img {
+	 	float: left;
+	 }
+
+li:nth-child(odd) { background: red; }
+li:nth-child(even) {background-color: blue;}
+
+nav { 
+text-align: right; }
+</style>
+</body>
+</html>
